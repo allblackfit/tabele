@@ -1,0 +1,22 @@
+th, td {
+    padding: 10px;
+    border: solid rgb(209, 152, 47);
+
+    border-radius: 5px;
+ 
+  }
+  table{
+    border: 2px solid rgb(209, 152, 47);
+  padding: 10px;
+  border-radius: 5px;
+  border-width: 2px;
+  border-spacing: 15px;
+  background-color:rgb(227, 199, 146);
+  }
+  th{
+    background-color: orange;
+  }
+  td
+  {
+    text-align: center;
+  }
